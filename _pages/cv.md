@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.P.H. in Social and Behavioural Sciences, Yale School of Public Health, 2024
+* B.S. in Psychology, Yale-NUS College, 2023
 
 Work experience
 ======
