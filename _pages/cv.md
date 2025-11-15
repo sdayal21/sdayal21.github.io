@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 # <span style="color:#2F5496;">Shivani Dayal</span>
 
 <span style="color:#555555; font-weight:bold;">
@@ -15,7 +14,7 @@ Yale MPH | Psychology and Public Health Researcher | Artist & Musician
 </span>  
 
 <span style="color:#777777;">
-Email | Website | LinkedIn | Twitter
+[LinkedIn](https://www.linkedin.com/in/shivanidayal/) | [Twitter/X](https://x.com/ShivaniDayal21)
 </span>
 
 ---
