@@ -14,7 +14,7 @@ Yale MPH | Psychology and Public Health Researcher | Artist & Musician
 </span>  
 
 <span style="color:#777777;">
-[LinkedIn](https://www.linkedin.com/in/shivanidayal/) | [Twitter/X](https://x.com/ShivaniDayal21)
+[LinkedIn](https://www.linkedin.com/in/shivanidayal/) | [Twitter](https://x.com/ShivaniDayal21)
 </span>
 
 ---
