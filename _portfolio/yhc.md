@@ -1,10 +1,12 @@
 ---
-title: "Yale Healthcare Conference"
+title: "Art from Yale Healthcare Conference Exhibition"
 excerpt: ""
 collection: portfolio
 header:
   teaser: art1.png
 ---
+
+The Annual Yale Healthcare Conference exhibited selected artworks at their conference. The following artwork of mine was exhibited:
 
 <figure>
   <img src="/images/art1.png" alt="Artwork 1" style="width: 100%; max-width: 800px; height: auto;">
@@ -26,3 +28,16 @@ I heard people describe this artwork as many things, it reminded some of a woman
 
 This work was created in honor of the researchers, social workers, and medical practitioners navigating historical medical moulds to create room for diverse and more inclusive systems of research & treatment. They pave the way for novel treatment methods, wield out-of-the-box thinking, and collaboratively tackle systemic oppression. Much like a puzzle, it is impossible to predict the exact methods of this endeavour before beginning. Medicine and public health are indebted to the individuals pioneering movements towards health justice.
 
+
+<figure>
+  <img src="/images/yhc1.png" alt="YHC Picture 1" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
+<figure>
+  <img src="/images/yhc2.png" alt="YHC Picture 2" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
+<figure>
+  <img src="/images/yhc3.png" alt="YHC Picture 3" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
+<figure>
+  <img src="/images/yhc4.png" alt="YHC Picture 4" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
