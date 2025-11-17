@@ -1,7 +1,7 @@
 ---
 title: "Oral Presentation at Generation Mental Health (GenMH) 2025"
 collection: talks
-type: "conference proceedings talk"
+type: "Conference Proceedings Talk"
 permalink: /talks/genmh2025
 venue: "GenMH 2025"
 date: 2025-09-06
