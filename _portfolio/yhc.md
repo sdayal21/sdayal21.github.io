@@ -30,14 +30,14 @@ This work was created in honor of the researchers, social workers, and medical p
 
 
 <figure>
-  <img src="/images/yhc1.png" alt="YHC Picture 1" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="/images/yhc1.jpeg" alt="YHC Picture 1" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
 <figure>
-  <img src="/images/yhc2.png" alt="YHC Picture 2" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="/images/yhc2.jpeg" alt="YHC Picture 2" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
 <figure>
-  <img src="/images/yhc3.png" alt="YHC Picture 3" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="/images/yhc3.jpeg" alt="YHC Picture 3" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
 <figure>
-  <img src="/images/yhc4.png" alt="YHC Picture 4" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="/images/yhc4.jpeg" alt="YHC Picture 4" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
