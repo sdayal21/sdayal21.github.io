@@ -6,6 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span style="color:#555555; font-weight:bold;">
+Yale MPH | Psychology and Public Health Researcher | Artist & Musician
+</span>  
+
 My name is Shivani Dayal (she/her), and I am a young Singaporean **public health** professional specialized in **social and behavioural sciences** and conducting research in **psychiatry**. I am currently based in the United States.
 
 I work at the **Yale Department of Psychiatry's AZA Lab**, where I study how music-based therapies and interventions can improve wellbeing by decreaseing stress and anxiety, alleviate symptoms tourbling symptoms for persons living with conditions like dementia and Parkinson's Disease, support emotional regulation, enhance nervous system synchrony, and increase interpersonal & group social connectedness. I have presented the work I do at lab at the [Society for Neuroscience Conference](/talks/sfn2025) in San Diego, CA and the [Generation Mental Health Conference](/talks/genmh2025) in Nairobi, Kenya. 
