@@ -21,7 +21,7 @@ redirect_from:
 *Bachelor’s Degree with Honors in Psychology* · Aug 2019 - May 2023  
 
 - Full merit-based scholarship  
-- Thesis: *Investigating How Hormonal Contraceptives Alter Behavior in Risk-Taking, Decision-Making, and Negotiation Behavior Domains*  
+- Thesis: "Investigating How Hormonal Contraceptives Alter Behavior in Risk-Taking, Decision-Making, and Negotiation Behavior Domains" 
 
 **Saw Swee Hock School of Public Health**, Singapore  
 *Masters-Level Visiting Student* · Jan 2023 - May 2023  
@@ -30,9 +30,9 @@ redirect_from:
 *Medical Anthropology Exchange Program* · Jan 2022 - May 2022  
 
 Relevant projects:  
-- "Thinly-Veiled Systemic Exploitation of Woman From The Global South"  
-- "Using Language As A Roadmap in Psychological Treatment Plans"  
-- "Music as a Tool for Communicating Identity and Catalyzing Change"  
+- *Thinly-Veiled Systemic Exploitation of Woman From The Global South*  
+- *Using Language As A Roadmap in Psychological Treatment Plans*  
+- *Music as a Tool for Communicating Identity and Catalyzing Change*  
 
 **United World College of South East Asia (UWCSEA)**, Singapore  
 *International Baccalaureate (IB) Diploma* · Aug 2017 - May 2019  
