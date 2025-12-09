@@ -5,24 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
-
-# <span style="color:#2F5496;">Shivani Dayal</span>
-
-<span style="color:#555555; font-weight:bold;">
-Yale MPH | Psychology and Public Health Researcher | Artist & Musician
-</span>  
-
-<span style="color:#777777;">
-[LinkedIn](https://www.linkedin.com/in/shivanidayal/) | [Twitter](https://x.com/ShivaniDayal21)
-</span>
-
----
-
-## <span style="color:#2F5496;">Research Interests</span>
-
-Social Psychology and Behavior, Cultural Factors in Mental Health, Music and Health,  
-Trauma-Informed Care, Climate Equity and Health, Health Policy  
 
 ---
 
