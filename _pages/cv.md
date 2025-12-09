@@ -41,7 +41,7 @@ Relevant projects:
 
 ## <span style="color:#2F5496;">Research Experience and Work</span>
 
-### <span style="color:#2F5496;">Yale Department of Psychiatry</span>, New Haven, USA  
+### <span style="color:#2F5496;">Yale Department of Psychiatry, [AZA Lab](https://www.azalab.org/)</span>, New Haven, USA  
 **Postgraduate Associate** (Supervised by Dr. AZA Allsop, M.D., PhD) · Oct 2024 - Present  
 
 - Leading 7 projects: heading major paper submissions, identifying and driving novel collaborations to create new lab projects, finding and preparing for opportunities to share original research, grant-writing, generating research-based study designs and protocol, and conducting project-relevant quantitative and qualitative analyses.  
@@ -50,14 +50,14 @@ Relevant projects:
 - Producing publication-ready scientific outputs, drafting structured manuscripts, preparing conference abstracts and posters, and performing advanced statistical analyses (for example regression, factor analysis) on large datasets to generate actionable insights for the lab.  
 - Strengthening cross-team collaboration and lab efficiency by coordinating timelines with collaborators, troubleshooting study challenges, and supporting administrative tasks, improving overall project execution and contributing to multiple successful research deliverables.  
 
-### <span style="color:#2F5496;">Legal Environmental Assistance Foundation (LEAF)</span>, Singapore (Remote)  
+### <span style="color:#2F5496;">[Legal Environmental Assistance Foundation (LEAF)](https://leaf-envirolaw.org/about-us#:~:text=LEAF%20protects%20community%20health%20by,with%20environmental%20laws%20and%20rules.)</span>, Singapore (Remote)  
 **Environmental, Health and Economic Justice Strategist** · Aug 2024 - Sept 2024  
 
 - Designed and developed educational web content on Triple Bottom Line Justice, highlighting the intersection of environmental protection, human health, and economic sustainability.  
 - Conceptualized and drafted materials, including a proof-of-concept Ambassador Program for students and graduates, to promote dissemination of academic and policy work on sustainability and justice.  
 - Researched and prepared outreach materials to educate the public on policies that strengthen environmental stewardship and health equity.  
 
-### <span style="color:#2F5496;">CDC Foundation, Climate Change and Health</span>, Singapore (Remote)  
+### <span style="color:#2F5496;">[CDC Foundation](https://www.cdcfoundation.org/), Climate Change and Health</span>, Singapore (Remote)  
 **Project Head and Intern** (Supervised by Dr. Laura Seeff, M.D.) · Jun 2023 - Aug 2023  
 
 - Researched methods for communicating climate-change-related health risks to youth to provide education and encourage engagement through different channels.  
@@ -93,7 +93,7 @@ Relevant projects:
 - Acted as the point of contact for groups of up to 7 members for 10 consecutive rounds of sessions to support a smooth enrolment process.  
 - Worked to unite clinicians across borders in their pursuit to create accessible mental healthcare options under the supervision of Monash University’s Dr. Keng Shian Ling.  
 
-### <span style="color:#2F5496;">Holmusk: Evidence-Based Behavioral Health Organization</span>, Singapore  
+### <span style="color:#2F5496;">[Holmusk: Evidence-Based Behavioral Health Organization](https://www.holmusk.com/)</span>, Singapore  
 **Psychology Intern** · Nov 2021 - May 2022  
 
 - Researched and wrote 10 educational articles about mental health and well-being to engage and inform a Singaporean audience and reduce mental-health-related stigma.  
