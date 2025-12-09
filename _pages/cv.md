@@ -41,7 +41,7 @@ Relevant projects:
 
 ## <span style="color:#2F5496;">Research Experience and Work</span>
 
-### <span style="color:#2F5496;">Yale Department of Psychiatry, [AZA Lab](https://www.azalab.org/)</span>, New Haven, USA  
+### <span style="color:#2F5496;">[Yale Department of Psychiatry](https://medicine.yale.edu/psychiatry/about/)</span>, New Haven, USA  
 **Postgraduate Associate** (Supervised by Dr. AZA Allsop, M.D., PhD) · Oct 2024 - Present  
 
 - Leading 7 projects: heading major paper submissions, identifying and driving novel collaborations to create new lab projects, finding and preparing for opportunities to share original research, grant-writing, generating research-based study designs and protocol, and conducting project-relevant quantitative and qualitative analyses.  
