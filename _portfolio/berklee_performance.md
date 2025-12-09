@@ -1,5 +1,5 @@
 ---
-title: "Berklee Performance"
+title: "Berklee School of Music Course"
 excerpt: ""
 collection: portfolio
 header:

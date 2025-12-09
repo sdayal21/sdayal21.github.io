@@ -1,5 +1,5 @@
 ---
-title: "Tango Singing"
+title: "Yale Tango Club: Live Singing"
 excerpt: ""
 collection: portfolio
 header:

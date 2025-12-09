@@ -1,5 +1,5 @@
 ---
-title: "We Lift Us"
+title: "Instagram Marketing Art: We Lift Us"
 excerpt: ""
 collection: portfolio
 header:

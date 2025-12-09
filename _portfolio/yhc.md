@@ -1,5 +1,5 @@
 ---
-title: "Art from Yale Healthcare Conference Exhibition"
+title: "Yale Healthcare Conference: Art Exhibition"
 excerpt: ""
 collection: portfolio
 header:
