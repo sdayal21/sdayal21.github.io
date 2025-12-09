@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-# <span style="color:#2F5496;">Hello!</span>
-
 <span style="color:#555555; font-weight:bold;">
 Yale MPH | Psychology and Public Health Researcher | Artist & Musician
 </span>  
@@ -15,24 +13,24 @@ Yale MPH | Psychology and Public Health Researcher | Artist & Musician
 <span style="color:#777777;">
 [LinkedIn](https://www.linkedin.com/in/shivanidayal/) | [Twitter](https://x.com/ShivaniDayal21)
 </span>
+ 
+---
+## <span style="color:#2F5496;">Hello!</span>
+
+My name is Shivani Dayal (she/her), a US-based Singaporean **public health** professional specializing in **social and behavioural sciences** and psychiatric research.  
+
+I work at the **Yale Department of Psychiatry's AZA Lab**, studying how music-based therapies can reduce stress and anxiety, alleviate symptoms in conditions such as dementia and Parkinson's Disease, support emotional regulation, enhance nervous system synchrony, and foster social connectedness. I have presented this work at the [Generation Mental Health Conference](/talks/genmh2025) in virtually, and the [Society for Neuroscience Conference](/talks/sfn2025) in San Diego, CA.
+
+I hold a Masters in Public Health from the **Yale School of Public Health**, with a focus on social and behavioural sciences in a U.S. Health Justice track. My thesis centered on delivering timely care and resources to low-income mothers in New Haven. Other projects included qualitative research with mothers with endometriosis, developing community-level trauma-informed healthcare, and linking law and evidence-based science to direct federal funds toward environmental health issues in high-risk communities.  
+
+I completed my undergraduate studies at **Yale-NUS College**, earning a B.A. in Psychology. My thesis examined the behavioural effects of hormonal contraceptives in non-mate-seeking domains, presenting findings at the [Human Behaviour and Evolution Society Conference](/talks/hbes2024) in Aarhus, Denmark, and the [International Association for Conflict Management](/talks/iacm2024) in Singapore.  
+
+I graduated with Honours from the 5-year concurrent YSPH-Yale-NUS program, receiving both my MPH and B.A. in five years. I was awarded the H. L. Kwee Scholarship for my MPH and a Full Merit-Based Scholarship for my undergraduate degree.  
+
+Outside research, I enjoy Vocal Music and Music Production, Argentine Tango, and Digital & Physical Art. I also love museums, musical theatre, and dancing.
 
 ---
 ## <span style="color:#2F5496;">Research Interests</span>
 
 Social Psychology and Behavior, Cultural Factors in Mental Health, Music and Health,  
-Trauma-Informed Care, Climate Equity and Health, Health Policy  
----
-
-My name is Shivani Dayal (she/her), and I am a young Singaporean **public health** professional specialized in **social and behavioural sciences** and conducting research in **psychiatry**. 
-
-I work at the **Yale Department of Psychiatry's AZA Lab**, where I study how music-based therapies and interventions can improve wellbeing by decreaseing stress and anxiety, alleviate troubling symptoms for persons living with conditions like dementia and Parkinson's Disease, support emotional regulation, enhance nervous system synchrony, and increase interpersonal & group social connectedness. I have presented the work I do at the AZA lab at the [Generation Mental Health Conference](/talks/genmh2025) in Nairobi, Kenya, and the [Society for Neuroscience Conference](/talks/sfn2025) in San Diego, CA.
-
-I am a recent graduate from the **Yale School of Public Health**, where I recieved a Masters in Public Health specialised in social and behavioural sciences in a U.S. Health Justice track. My thesis project was a collaborative effort focused on delivering timely and relevant care and recources to low-income mothers in New Haven, and examples of other relevant projects include qualitative research on mothers with endometriosis, researching culturally-relevant ways to device post-war trauma informed healthcare on a community level, and working to unite law and evidence-based science to channel federal funds to pay for environmental-stress related health issues in communities with high levels of exposure to pollutants. 
-
-I did my undergraduate study at **Yale-NUS College**, where I graduated with a B.A. in Psychology. My thesis focused on how the use of hormonal contraceptives has an impact on behaviours in the non-mate-seeking domain, as mate-seeking domains are often prioritised within the underexplored field of female hormonal research. I presented work and findings from this project at the [Human Behaviour and Evolution Society Conference](/talks/hbes2024) in Aarhus, Denmark and the [International Association for Conflict Management](/talks/iacm2024) in Singapore, Singapore. 
-
-I graduated with Honours from the 5-year Concurrent YSPH-Yale-NUS Degree Program open to a handful of students annually, which allowed me to recieve both my MPH and B.A. within 5 years. I was the a recipient of the H. L. Kwee Scholarship for the MPH program as well as a Full Merit-Based Scholarship for my undergraduate degree progrem. 
-
-I am most interested in studying Social Psychology and Behaviour, Cultural Factors in Mental Health, Music and Health, Trauma-informed Care, Climate Equity and Health, and Health policy. 
-
-Outside of my research interests, my hobbies include Vocal Music and Music Production, Argentine Tango, and Digital & Physical Art. I love museums, musical theatre, and dancing. 
+Trauma-Informed Care, Climate Equity and Health, Health Policy 
