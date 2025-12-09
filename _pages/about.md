@@ -17,11 +17,11 @@ Yale MPH | Psychology and Public Health Researcher | Artist & Musician
 </span>
 
 ---
-
 ## <span style="color:#2F5496;">Research Interests</span>
 
 Social Psychology and Behavior, Cultural Factors in Mental Health, Music and Health,  
 Trauma-Informed Care, Climate Equity and Health, Health Policy  
+---
 
 My name is Shivani Dayal (she/her), and I am a young Singaporean **public health** professional specialized in **social and behavioural sciences** and conducting research in **psychiatry**. 
 
