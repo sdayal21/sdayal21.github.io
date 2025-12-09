@@ -1,5 +1,5 @@
 ---
-title: "Berklee School of Music Course"
+title: "Berklee School of Music: Vocal Summit Course"
 excerpt: ""
 collection: portfolio
 header:
