@@ -1,7 +1,7 @@
 ---
 title: "Oral Presentation: Generation Mental Health 2025"
 collection: presentations
-permalink: /presentations/genmh2025
+permalink: /talks/genmh2025
 date: 2025-09-06
 location: "Nairobi, Kenya (Hybrid)"
 ---
