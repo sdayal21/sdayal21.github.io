@@ -14,20 +14,16 @@ main:
  #- title: "Blog Posts"
  #   url: /year-archive/
   
-  - title: "Presentations"
-    url: /presentations/
-
+  - title: "Talks"
+    url: /talks/
+    
   - title: "Portfolio"
     url: /portfolio/
-
-  - title: "Podcast"
-    url: /podcast/
   
-  - title: "Podcast"
-    url: /podcast/
-
   #- title: "Publications"
   #  url: /publications/
+
+
 
   #- title: "Volunteering"
   #  url: /volunteering/
