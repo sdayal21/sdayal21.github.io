@@ -6,8 +6,20 @@ header:
   teaser: 500x300.png
 ---
 
+I completed a certificate program at the Berklee School of Music in 2025 focused on vocal music, songwriting, and performance. 
+
+<video width="100%" height="auto" controls>
+    <source src="/berklee/berkvideo.MOV" type="video/quicktime">
+    Your browser does not support the video tag.
+</video>
+
 <figure>
-  <img src="/images/500x300.png" alt="Artwork 1" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="/berklee/berkimage1.HEIC" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
 
-I completed a certificate program at the Berklee School of Music in 2025 focused on vocal music and performance. 
+<figure>
+  <img src="/images/berkimage2.jpg" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
+
+<embed src="/Berklee Certificate.png" type="application/png" width="100%" height="600px">
+
