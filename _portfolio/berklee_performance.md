@@ -14,11 +14,15 @@ I completed a certificate program at the Berklee School of Music in 2025 focused
 </video>
 
 <figure>
+  <img src="/berklee/berkimage3.JPG" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
+
+<figure>
   <img src="/berklee/berkimage1.HEIC" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
 
 <figure>
-  <img src="/images/berkimage2.jpg" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="/berklee/berkimage2.jpg" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
 
 <embed src="/Berklee Certificate.png" type="application/png" width="100%" height="600px">
