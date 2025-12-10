@@ -3,7 +3,7 @@ title: "We Lift Us Project"
 excerpt: ""
 collection: portfolio
 header:
-  teaser: WLU Artworks 1.pdf
+  teaser: 500x300.png
 ---
 
 <figure>
