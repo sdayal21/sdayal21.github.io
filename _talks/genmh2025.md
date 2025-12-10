@@ -9,7 +9,9 @@ My work at the AZA Lab was selected as a virtual oral presentation at the [Gener
 
 Individuals in carceral and recovery facilities often experience intense and repeated trauma, along with chronic stress. These experiences can dysregulate the autonomic nervous system and contribute to poor mental health outcomes. However, most therapeutic approaches in these environments don't address the biological impact of trauma or leverage social connection as a healing mechanism.
 
-<p><a href="/files/genmh_slides.pdf">Download Presentation Slides (PDF)</a></p>
+This project aims to assess the ways in which group-based music interventions and therapies can be particularly effective and impactful in these contexts.
+
+Here is a video of the virtual presentation given by myself and my co-author. 
 
 [4:10]
 <figure>
