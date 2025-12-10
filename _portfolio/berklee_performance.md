@@ -3,7 +3,7 @@ title: "Berklee School of Music Course"
 excerpt: ""
 collection: portfolio
 header:
-  teaser: berklee_thumbnail.png
+  teaser: 500x300.png
 ---
 
 I completed a certificate program at the Berklee School of Music in 2025 focused on vocal music, songwriting, and performance. 
