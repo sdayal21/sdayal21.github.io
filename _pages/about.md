@@ -32,5 +32,4 @@ I graduated with Honours from the 5-year Concurrent Degree [YSPH-Yale-NUS progra
 ---
 ## <span style="color:#2F5496;">Research Interests</span>
 
-Social Psychology and Behavior, Cultural Factors in Mental Health, Music and Health,  
-Trauma-Informed Care, Climate Equity and Health, Health Policy 
+Social Psychology and Behavior, Cultural Factors in Mental Health, Music and Health, Trauma-Informed Care, Climate Equity and Health, Health Policy 

@@ -9,14 +9,6 @@ header:
 I completed a certificate program at the Berklee School of Music in 2025 focused on vocal music, songwriting, and performance. 
 
 <figure>
-  <img src="/berklee/berkimage3.JPG" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
-</figure>
-
-<figure>
-  <img src="/berklee/berkimage1.jpeg" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
-</figure>
-
-<figure>
   <img src="/berklee/cert.png" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
 
@@ -29,6 +21,12 @@ I completed a certificate program at the Berklee School of Music in 2025 focused
   </iframe>
 </div>
 
+<figure>
+  <img src="/berklee/berkimage3.JPG" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
 
+<figure>
+  <img src="/berklee/berkimage1.jpeg" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
 
 

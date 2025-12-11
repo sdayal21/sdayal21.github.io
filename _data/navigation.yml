@@ -23,8 +23,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  #- title: "Volunteering"
-  #  url: /volunteering/
+  - title: "Volunteering"
+    url: /volunteering/
 
   # - title: "Teaching"
   #   url: /teaching/    
