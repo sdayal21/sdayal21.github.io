@@ -23,9 +23,10 @@ At **Yale’s** [AZA Lab](https://www.azalab.org/), I study how **music-based th
 
 I hold an MPH from **Yale School of Public Health** (Social and Behavioural Sciences) and a **B.A. in Psychology from Yale-NUS College**, where I also explored behavioral effects of hormonal contraceptives and presented at the [Human Behaviour and Evolution Society Conference](/talks/hbes2024) and the [International Association for Conflict Management](/talks/iacm2024). 
 
-I graduated with **Honours** from the 5-year [concurrent degree program](https://ysph.yale.edu/school-of-public-health/graduate-programs/mph-joint-degree/5-year-ba-bs-mph/), supported by the **H. L. Kwee Scholarship** and a full merit-based undergraduate scholarship.
+I graduated with **Honours** from the 5-year [concurrent degree program](https://ysph.yale.edu/school-of-public-health/graduate-programs/mph-joint-degree/5-year-ba-bs-mph/), supported by the **H. L. Kwee Scholarship** and a full merit-based undergraduate scholarshi.
 
 Beyond research, I’m a trained **Indian Classical vocalist**, songwriter, and aspiring music producer. I enjoy **Argentine Tango, Digital & Physical Art, and Music**, and love muserms, musical theatre, and dancing.
+
 ---
 ## <span style="color:#2F5496;">Research Interests</span>
 
