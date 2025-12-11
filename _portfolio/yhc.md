@@ -3,7 +3,7 @@ title: "Yale Healthcare Conference: Art Exhibition"
 excerpt: ""
 collection: portfolio
 header:
-  teaser: 500x300.png
+  teaser: yhc_thumbnail.png
 ---
 
 The Annual Yale Healthcare Conference exhibited selected artworks at their conference. The following artwork of mine was exhibited:

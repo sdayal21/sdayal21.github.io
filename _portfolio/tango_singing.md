@@ -3,7 +3,7 @@ title: "Tango Singing"
 excerpt: ""
 collection: portfolio
 header:
-  teaser: 500x300.png
+  teaser: tango_thumbnail.png
 ---
 
 <figure>

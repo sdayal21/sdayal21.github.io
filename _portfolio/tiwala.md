@@ -3,7 +3,7 @@ title: "Student-Written and Run Production:Tiwala"
 excerpt: ""
 collection: portfolio
 header:
-  teaser: 500x300.png
+  teaser: tiwala_thumbnail.png
 ---
 
 I wrote and produced original music with friends for a student-written and run original musical production during the . The song I mixed, arranged, and produced, and co-wrote the song ‘Powerful Woman’ for this project.
