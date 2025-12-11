@@ -7,7 +7,13 @@ redirect_from:
   - /resume
 ---
 
-## <span style="color:#2F5496;">Education</span>
+<iframe 
+    src="resume.pdf" 
+    width="100%" 
+    height="600px">
+</iframe>
+
+<!-- ## <span style="color:#2F5496;">Education</span>
 
 **Yale University**, New Haven, USA  
 *Master of Public Health, Social and Behavioral Sciences* · Aug 2022 - May 2024  
@@ -159,4 +165,4 @@ Relevant projects:
 - **Languages:** English (native), Hindi (fluent)  
 - **Skills:** R Studio, R Markdown, SPSS, GraphPad Prism, Microsoft Excel, Social Media Management (Facebook, Instagram, TikTok, newsletters), Canva, Logic Pro X for audio editing  
 - **Awards:** Certification for 8-year Indian Classical Vocal Music training; Certification of 5-year Fine Arts course; participation in multiple selective international music festivals with The Association for Music in International Schools (AMIS); lead roles in multiple musical productions (*AIDA*, *Next to Normal*, *The Wiz*)  
-- **Hobbies:** Vocal music, Argentine tango, music production, meditation, yoga  
+- **Hobbies:** Vocal music, Argentine tango, music production, meditation, yoga   -->
