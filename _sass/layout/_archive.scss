@@ -105,6 +105,59 @@
   .page__meta {
     margin: 0 0 4px;
   }
+
+  // Layout for list items with thumbnails on the right
+  .archive__item {
+    // Apply flex layout when thumbnail exists (using :has for modern browsers)
+    @include breakpoint($small) {
+      &:has(.archive__item-teaser--right) {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 1em;
+        margin-bottom: 1.5em;
+      }
+    }
+  }
+
+  .archive__item-body {
+    flex: 1;
+    min-width: 0; // Allows text to wrap properly
+    order: 1; // Content comes first (left side)
+  }
+
+  .archive__item-teaser--right {
+    display: none; // Hide on mobile by default
+
+    @include breakpoint($small) {
+      display: block;
+      flex-shrink: 0;
+      width: 120px;
+      height: 120px;
+      order: 2; // Place thumbnail on the right
+      align-self: flex-start; // Align to top of content
+      margin-top: 1em; // Move down a bit
+    }
+
+    @include breakpoint($medium) {
+      width: 150px;
+      height: 150px;
+      margin-top: 1.5em;
+    }
+
+    @include breakpoint($large) {
+      width: 180px;
+      height: 180px;
+      margin-top: 2em;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: $border-radius;
+    }
+  }
 }
 
 
