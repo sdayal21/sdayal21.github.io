@@ -7,11 +7,14 @@ redirect_from:
   - /resume
 ---
 
-<iframe 
-    src="/files/resume.pdf" 
-    width="100%" 
-    height="600px">
-</iframe>
+<!-- Google Drive PDF Embed -->
+<div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
+  <iframe
+    src="https://drive.google.com/file/d/1pnMY71d-pi0f0vhexYGHNcwZCOVFFXSK/preview"
+    style="position: absolute; top: 0; left: 0; width:100%; height:100%; border:none;"
+    allowfullscreen
+  ></iframe>
+</div>
 
 
 <!-- ## <span style="color:#2F5496;">Education</span>
