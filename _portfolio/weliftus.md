@@ -3,7 +3,7 @@ title: "We Lift Us Project"
 excerpt: ""
 collection: portfolio
 header:
-  teaser: wlu_thumbnail
+  teaser: wlu_thumbnail.png
 ---
 
 <figure>

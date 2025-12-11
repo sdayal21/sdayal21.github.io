@@ -154,7 +154,6 @@ Relevant projects:
 - Harvard Medical School Global Mental Health: Trauma and Recovery Program, 2025 
 
 ---
-
 ## <span style="color:#2F5496;">Additional Information</span>
 
 - **Languages:** English (native), Hindi (fluent)  
