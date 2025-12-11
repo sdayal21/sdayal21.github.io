@@ -152,21 +152,6 @@
       border-radius: $border-radius;
     }
   }
-
-  // Fallback for browsers that don't support :has()
-  // Add a class to archive__item when thumbnail exists via JavaScript if needed
-  // Or use this alternative approach:
-  @supports not selector(:has(*)) {
-    .archive__item {
-      @include breakpoint($small) {
-        .archive__item-teaser--right {
-          float: right;
-          margin-left: 2em;
-          margin-bottom: 1em;
-        }
-      }
-    }
-  }
 }
 
 
