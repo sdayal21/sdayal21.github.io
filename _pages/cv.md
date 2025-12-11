@@ -145,45 +145,19 @@ Relevant projects:
 
 - **Human Behavior and Evolution Society (HBES) 2024**, Aarhus, Denmark  
   Poster presentation · May 22 - 25, 2024  
-
----
-
-## <span style="color:#2F5496;">Volunteering</span>
-
-### <span style="color:#2F5496;">Downtown Evening Soup Kitchen (DESK)</span>, New Haven, USA  
-**Volunteer** · Aug 2025 - Present  
-
-- Processed food, prepared meals, and cleaned kitchen spaces for the organization during 3 hour shifts monthly.  
-- Served food during the organization’s café hours during 2 hour shifts several times a month.  
-
-### <span style="color:#2F5496;">Tango Therapy for Parkinsons</span>, Brandford, USA  
-**Volunteer** · Aug 2025 - Present  
-
-- Participated as a volunteer for a Tango Therapy service conducted for individuals living with Parkinson’s Disease during weekly 2 hour sessions.  
-
-### <span style="color:#2F5496;">Little Rose Shelter</span>, Vietnam  
-**Volunteer** · May 2017 - May 2019  
-
-- Raised awareness for and connected with young girls who were victims of, or at risk of, abuse.  
-- Organized and undertook a fortnight-long unsupervised trip to Vietnam with four other students to build connections with the shelter’s residents.  
-
-### <span style="color:#2F5496;">Music Therapy, APEX Harmony Lodge</span>, Singapore  
-**Volunteer** · Aug 2016 - Jun 2017  
-
-- Provided weekly music therapy for dementia patients at APEX Harmony Lodge Singapore to improve quality of life during treatment and stay at the lodge through 1 hour sessions each week.  
-
+ 
 ---
 
 ## <span style="color:#2F5496;">Certifications and Shorter Training Programs</span>
 
 - Berklee School of Music Vocal Summit, 2025  
-- Harvard Medical School Global Mental Health: Trauma and Recovery Program, 2025  
+- Harvard Medical School Global Mental Health: Trauma and Recovery Program, 2025 
 
 ---
 
 ## <span style="color:#2F5496;">Additional Information</span>
 
 - **Languages:** English (native), Hindi (fluent)  
-- **Skills:** R Studio, R Markdown, SPSS, GraphPad Prism, Microsoft Excel, social media management (Facebook, Instagram, TikTok, newsletters), Canva, Logic Pro X for audio editing  
+- **Skills:** R Studio, R Markdown, SPSS, GraphPad Prism, Microsoft Excel, Social Media Management (Facebook, Instagram, TikTok, newsletters), Canva, Logic Pro X for audio editing  
 - **Awards:** Certification for 8-year Indian Classical Vocal Music training; Certification of 5-year Fine Arts course; participation in multiple selective international music festivals with The Association for Music in International Schools (AMIS); lead roles in multiple musical productions (*AIDA*, *Next to Normal*, *The Wiz*)  
 - **Hobbies:** Vocal music, Argentine tango, music production, meditation, yoga  

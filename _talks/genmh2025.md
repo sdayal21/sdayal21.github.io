@@ -1,5 +1,5 @@
 ---
-title: "Oral Presentation: Generation Mental Health 2025"
+title: "Generation Mental Health 2025"
 collection: presentations
 permalink: /talks/genmh2025
 date: 2025-09-06
