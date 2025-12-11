@@ -4,7 +4,8 @@ collection: presentations
 permalink: /talks/genmh2025
 date: 2025-09-06
 location: "Nairobi, Kenya (Hybrid)"
-
+header:
+  teaser: "sfnpic1.JPG"
 ---
 
 My work at the AZA Lab was selected as a virtual oral presentation at the [Generation Mental Health 2025](https://www.generationmentalhealth.org/2025-conference) Conference in Nairobi, Kenya. This work focuses on how group music therapy (GMT) can reduce stress and anxiety, increase social connection, and enhance synchrony in the nervous system among people living in high-trauma environments like prisons/carceral environments and recovery centers.
