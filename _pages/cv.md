@@ -13,6 +13,7 @@ redirect_from:
     height="600px">
 </iframe>
 
+
 <!-- ## <span style="color:#2F5496;">Education</span>
 
 **Yale University**, New Haven, USA  
