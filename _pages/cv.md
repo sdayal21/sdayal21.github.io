@@ -65,7 +65,7 @@ Relevant projects:
 - Suggested how to quantify progress and success through different quantitative and qualitative metrics.  
 - Created slide decks, reports, and surveys to share with youth council members, teams within the CDC Foundation and the CDC, and other experts to present findings, receive feedback, and gather more data.  
 
-### <span style="color:#2F5496;">We Lift Us Organization</span> (Virtual)  
+### <span style="color:#2F5496;">We Lift Us Organization</span> (Remote)  
 **Social Justice Summer Scholar** · Jun 2023 - Aug 2023  
 
 - Designed and created Instagram posts with multiple slides and original artwork to represent and share experiences of interviewees through selected quotes.  
@@ -91,7 +91,7 @@ Relevant projects:
 **Group Coordinator** · Jun 2021 - Mar 2024  
 
 - Acted as the point of contact for groups of up to 7 members for 10 consecutive rounds of sessions to support a smooth enrolment process.  
-- Worked to unite clinicians across borders in their pursuit to create accessible mental healthcare options under the supervision of Monash University’s Dr. Keng Shian Ling.  
+- Worked to unite clinicians across borders in their pursuit to create accessible mental healthcare options under the supervision of Sunway University’s Dr. Keng Shian Ling and the Boston Child Study Center's Dr. Pamela Buck.  
 
 ### <span style="color:#2F5496;">[Holmusk: Evidence-Based Behavioral Health Organization](https://www.holmusk.com/)</span>, Singapore  
 **Psychology Intern** · Nov 2021 - May 2022  

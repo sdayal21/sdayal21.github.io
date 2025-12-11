@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
----
-
-## <span style="color:#2F5496;">Volunteering</span>
-
 ### <span style="color:#2F5496;">Downtown Evening Soup Kitchen (DESK)</span>, New Haven, USA  
 **Volunteer** · Aug 2025 - Present  
 
