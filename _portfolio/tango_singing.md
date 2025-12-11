@@ -1,14 +1,10 @@
 ---
-title: "Tango Singing"
+title: "Yale Tango Club: Live Music"
 excerpt: ""
 collection: portfolio
 header:
   teaser: tango_thumbnail.png
 ---
-
-<figure>
-  <img src="/images/500x300.png" alt="Artwork 1" style="width: 100%; max-width: 800px; height: auto;">
-</figure>
 
 I have been a part of the Yale Tango Club (YTC) - a graduate club at Yale University that serves as a community for Argentine tango dancers - since Fall 2022. In 2025, I joined two YTC companions to perform nine songs live, weaving a soundtrack for a night of movement.
 
