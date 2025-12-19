@@ -5,6 +5,11 @@ subtitle: "As part of the Yale Journal of Biology and Medicine, I contribute to 
 permalink: /podcasts/
 author_profile: true
 ---
+
+{% if page.subtitle %}
+  <p class="archive__subtitle" style="border-bottom: none; padding-bottom: 0; margin-bottom: 1em;">{{ page.subtitle }}</p>
+{% endif %}
+
 {% assign sorted_podcasts = site.podcasts | sort: "order" %}
 {% for post in sorted_podcasts reversed %}
   {% include archive-single-podcast.html %}
