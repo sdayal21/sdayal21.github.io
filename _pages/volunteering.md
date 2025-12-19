@@ -12,7 +12,7 @@ redirect_from:
 
 Assisting with meal preparation, kitchen upkeep, and food service for the organization, volunteering regularly in both back-of-house support and café-hour service shifts.  
 
-### <span style="color:#2F5496;">Tango Therapy for Parkinsons</span>, Brandford, USA  
+### <span style="color:#2F5496;">Tango Therapy for Parkinsons</span>, Branford, USA  
 *Volunteer · Aug 2025 - Present*  
 
 Volunteering in weekly two-hour Tango Therapy sessions supporting individuals living with Parkinson’s disease. 
