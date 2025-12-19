@@ -2,7 +2,6 @@
 title: "Kinase Signalling Issue: An Interview with the Editors"
 collection: podcasts
 permalink: /podcasts/ep4
-date: 
 location: "Yale School of Medicine"
 order: 4
 ---

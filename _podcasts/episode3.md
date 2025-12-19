@@ -2,7 +2,6 @@
 title: "Social Gerontology and the Psychology of Caregiving: an Interview with Dr. Joan Monin"
 collection: podcasts
 permalink: /podcasts/ep3
-date: 
 location: "Yale School of Public Health"
 order: 3
 ---

@@ -2,7 +2,6 @@
 title: "How Climate Change and Pollution Affect Human Health: An Interview with Dr. Kai Chen"
 collection: podcasts
 permalink: /podcasts/ep1
-date: 
 location: "Yale School of Public Health"
 order: 1
 ---
