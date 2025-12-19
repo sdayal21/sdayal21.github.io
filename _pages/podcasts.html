@@ -6,6 +6,6 @@ permalink: /podcasts/
 author_profile: true
 ---
 {% assign sorted_podcasts = site.podcasts | sort: "order" %}
-{% for post in sorted_podcasts %}
+{% for post in sorted_podcasts reversed %}
   {% include archive-single-podcast.html %}
 {% endfor %}
