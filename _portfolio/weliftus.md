@@ -8,26 +8,28 @@ header:
 
 This original artwork was created for Instagram to visually convey and share the stories of participants in the We Life Us project, which explores the lived experiences of minority mothers in the United States. As part of the project, I received training in qualitative interviewing and led the development of marketing materials to raise awareness and amplify these voices.
 
-<div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
+
+
+<div style="position: relative; width: 300px; padding-top: 100%; /* Square aspect ratio */">
   <iframe
     src="https://drive.google.com/file/d/1P6gVbGbKx9Z0K3etfTfaTB7BhgFSs7N8/preview"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+    style="position: absolute; top: 10%; left: 10%; width: 80%; height: 80%; border: none;"
     allowfullscreen
   ></iframe>
 </div>
 
-<div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
+<div style="position: relative; width: 300px; padding-top: 100%; /* Square aspect ratio */">
   <iframe
     src="https://drive.google.com/file/d/1QfI2KHsMyw6bRiS6uj7iey4vrRoNxl-5/preview"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+    style="position: absolute; top: 10%; left: 10%; width: 80%; height: 80%; border: none;"
     allowfullscreen
   ></iframe>
 </div>
 
-<div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
+<div style="position: relative; width: 300px; padding-top: 100%; /* Square aspect ratio */">
   <iframe
     src="https://drive.google.com/file/d/1QwQ8oQleiEMEwFZ4qaAyGX9fLDNcC9GB/preview"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+    style="position: absolute; top: 10%; left: 10%; width: 80%; height: 80%; border: none;"
     allowfullscreen
   ></iframe>
 </div>
