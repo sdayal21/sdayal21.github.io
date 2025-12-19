@@ -25,7 +25,7 @@ I hold an MPH from **Yale School of Public Health** (Social and Behavioural Scie
 
 I graduated with **Honours** from the 5-year [concurrent degree program](https://ysph.yale.edu/school-of-public-health/graduate-programs/mph-joint-degree/5-year-ba-bs-mph/), supported by the **H. L. Kwee Scholarship** and a full merit-based undergraduate scholarship.
 
-Beyond research, I’m a trained **Indian Classical vocalist**, songwriter, and aspiring music producer. I enjoy **Argentine Tango, Digital & Physical Art, and Music**, and love museums, musical theatre, and dancing.
+Beyond research, I’m a trained **Indian Classical, Western Classical, and Musical Theatre vocalist**, songwriter, and aspiring music producer and [**podcaster**](https://sdayal21.github.io/podcasts/). I enjoy **Argentine Tango, Digital & Physical Art, and Music**, and love museums, musical theatre, and dancing.
 
 ---
 
