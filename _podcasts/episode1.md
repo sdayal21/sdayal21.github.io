@@ -1,13 +1,11 @@
 ---
-title: "History, Ethics, and Public Health: An Interview with Dr. Laura Bothwell"
+title: "How Climate Change and Pollution Affect Human Health: An Interview with Dr. Kai Chen"
 collection: podcasts
 permalink: /podcasts/ep1
-date: 2024-06-17
+date: 2024-04-08
 location: "Yale School of Public Health"
-order: 1
+order: 5
 ---
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/2wFjHiu1WzjqFFTuW649Xg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0W0IrouSfswiC6l2i09CUa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-With its unique history filled with both triumphs and dark chapters, public health researchers and professionals have an ethical responsibility to examine the past as they aspire to shape the future of public health by conducting effective and ethical health-related research and work today.
-
-In this episode, Shivani interviews the esteemed ethicist and historian of Public Health, Dr. Laura Bothwell, who discusses how the history of public health has influenced the present. In this informative conversation, Dr. Bothwell sheds light on the weight of history, and discusses the structural obligation that health professionals have to address inequities and institutional biases and their contribution to many of the public health challenges we face today.
+Climate change is not only measured in catastrophic events – it has a gradual impact on the individual health of people all around the world. In this episode of the YJBM podcast, Shivani interviews Dr. Kai Chen, an environmental epidemiologist, researcher, and Professor at the Yale School of Public Health. In this interview, Dr. Chen discusses his work, the links between heat exposure and cardiovascular health, air quality and students’ academic scores, and wildfire smoke and mental health outcomes.
