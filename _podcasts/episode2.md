@@ -4,6 +4,7 @@ collection: podcasts
 permalink: /podcasts/ep2
 date: 2025-04-07
 location: "Yale School of Medicine"
+order: 2
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1jplfJmvR53cryecHzu925?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
