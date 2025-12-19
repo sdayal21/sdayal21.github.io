@@ -3,7 +3,7 @@ title: "The Immunology of Long Covid: An Interview with Dr. Lindsay McAlpine and
 collection: podcasts
 permalink: /podcasts/ep2
 location: "Yale School of Medicine"
-order: 2
+order: 4
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1jplfJmvR53cryecHzu925?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
