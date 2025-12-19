@@ -6,7 +6,7 @@ header:
   teaser: wlu_thumbnail.png
 ---
 
-I was responsible for creating original artworks the [We Life Us](https://www.instagram.com/weliftus?igsh=MTA2YXB5YThyOWw4dw==) project's Instagram page, with the goal of visually telling the stories of participants in this qualitative research project. This initiative highlights the lived experiences of minority mothers in the United States. As part of my involvement, I received training in qualitative interviewing and played a key role in developing marketing materials to raise awareness and amplify these important voices. Here are samples of my work: 
+I was responsible for creating original artworks the We Life Us project's [Instagram page](https://www.instagram.com/weliftus?igsh=MTA2YXB5YThyOWw4dw==), with the goal of visually telling the stories of participants in this qualitative research project. This initiative highlights the lived experiences of minority mothers in the United States. As part of my involvement, I received training in qualitative interviewing and played a key role in developing marketing materials to raise awareness and amplify these important voices. Here are samples of my work: 
 
 The Plant That Could've Been (7/11/23)
 <!-- First PDF -->
