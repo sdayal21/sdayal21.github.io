@@ -2,7 +2,7 @@
 title: "The Immunology of Long Covid: An Interview with Dr. Lindsay McAlpine and Dr. Kayla Sá"
 collection: podcasts
 permalink: /podcasts/ep2
-date: 2025-04-07
+date: 
 location: "Yale School of Medicine"
 order: 2
 ---

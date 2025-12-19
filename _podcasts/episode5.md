@@ -2,9 +2,9 @@
 title: "History, Ethics, and Public Health: An Interview with Dr. Laura Bothwell"
 collection: podcasts
 permalink: /podcasts/ep5
-date: 2024-06-17
+date: 
 location: "Yale School of Public Health"
-order: 1
+order: 5
 ---
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/2wFjHiu1WzjqFFTuW649Xg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
