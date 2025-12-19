@@ -6,9 +6,7 @@ header:
   teaser: wlu_thumbnail.png
 ---
 
-This original artwork was created for Instagram to visually convey and share the stories of participants in the We Life Us project, which explores the lived experiences of minority mothers in the United States. As part of the project, I received training in qualitative interviewing and led the development of marketing materials to raise awareness and amplify these voices.
-
-
+I was responsible for creating original artworks the [We Life Us](https://www.instagram.com/weliftus?igsh=MTA2YXB5YThyOWw4dw==) project's Instagram page, with the goal of visually telling the stories of participants in this qualitative research project. This initiative highlights the lived experiences of minority mothers in the United States. As part of my involvement, I received training in qualitative interviewing and played a key role in developing marketing materials to raise awareness and amplify these important voices. Here are samples of my work: 
 
 <!-- First PDF -->
 <div style="position: relative; width: 500px; height: 500px;">
@@ -18,6 +16,7 @@ This original artwork was created for Instagram to visually convey and share the
     allowfullscreen
   ></iframe>
 </div>
+The Plant That Could've Been (7/11/23)
 
 <!-- Second PDF -->
 <div style="position: relative; width: 500px; height: 500px;">
@@ -27,6 +26,7 @@ This original artwork was created for Instagram to visually convey and share the
     allowfullscreen
   ></iframe>
 </div>
+On Fear (6/14/23)
 
 <!-- Third PDF -->
 <div style="position: relative; width: 500px; height: 500px;">
@@ -36,3 +36,4 @@ This original artwork was created for Instagram to visually convey and share the
     allowfullscreen
   ></iframe>
 </div>
+Participant Quote Sample (9/13/23)
