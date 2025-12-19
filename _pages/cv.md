@@ -10,7 +10,7 @@ redirect_from:
 <!-- Google Drive PDF Embed -->
 <div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
   <iframe
-    src="https://docs.google.com/document/d/1TKkztaGr4iE1PGd7ZSvQxmCTKS81yU-o535ofH3aVQg/edit?tab=t.0"
+    src="https://drive.google.com/drive/search?dmr=1&ec=wgc-drive-globalnav-goto&q=shivani%20resume"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
     allowfullscreen
   ></iframe>
