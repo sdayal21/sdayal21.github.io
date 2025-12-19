@@ -10,8 +10,8 @@ redirect_from:
 <!-- Google Drive PDF Embed -->
 <div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
   <iframe
-    src="https://drive.google.com/file/d/1pnMY71d-pi0f0vhexYGHNcwZCOVFFXSK/preview"
-    style="position: absolute; top: 0; left: 0; width:100%; height:100%; border:none;"
+    src="https://docs.google.com/viewer?url=https://drive.google.com/uc?export=view&id=1pnMY71d-pi0f0vhexYGHNcwZCOVFFXSK&embedded=true"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
     allowfullscreen
   ></iframe>
 </div>

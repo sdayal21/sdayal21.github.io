@@ -26,6 +26,10 @@ I completed a certificate program at the Berklee School of Music in 2025 focused
 </figure>
 
 <figure>
+  <img src="/berklee/berkimage2.jpeg" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
+</figure>
+
+<figure>
   <img src="/berklee/berkimage1.jpeg" alt="Berklee Image" style="width: 100%; max-width: 800px; height: auto;">
 </figure>
 
