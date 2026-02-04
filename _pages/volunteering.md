@@ -15,7 +15,9 @@ Assisting with meal preparation, kitchen upkeep, and food service for the organi
 ### <span style="color:#2F5496;">Tango Therapy for Parkinsons</span>, Branford, USA  
 *Volunteer · Aug 2025 - Present*  
 
-Volunteering in weekly two-hour Tango Therapy sessions supporting individuals living with Parkinson’s disease. 
+Volunteering in weekly two-hour Tango Therapy sessions supporting individuals living with Parkinson’s disease. A news channel visited our volunteer group!: 
+[Article](https://www.wtnh.com/news/health/yale-parkinsons-patients-learn-to-tango-for-balance/)
+[Video](https://www.youtube.com/watch?v=U9JMhpSDdMI&t=10s)
 
 ### <span style="color:#2F5496;">Little Rose Shelter</span>, Vietnam  
 *Volunteer · May 2017 - May 2019* 
