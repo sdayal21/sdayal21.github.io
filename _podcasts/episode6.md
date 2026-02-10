@@ -5,7 +5,7 @@ permalink: /podcasts/ep6
 location: "Yale School of Public Health"
 order: 6
 ---
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/episode/4vpbt9BEmbnhAVlIkTXgxJ?si=54cba047bb8f4f6e" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open..com/embed/episode/4vpbt9BEmbnhAVlIkTXgxJ?si=54cba047bb8f4f6e" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 How can we leverage the legal system and the medical system to best support the communities these systems should be serving? 
 
